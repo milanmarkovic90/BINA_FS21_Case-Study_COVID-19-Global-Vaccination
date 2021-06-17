@@ -18,14 +18,12 @@ if(!"readxl" %in% rownames(installed.packages())) install.packages("readxl")
 if(!"ggplot2" %in% rownames(installed.packages())) install.packages("ggplot2")
 if(!"gganimate" %in% rownames(installed.packages())) install.packages("gganimate")
 if(!"psych" %in% rownames(installed.packages())) install.packages("psych")
-if(!"stats" %in% rownames(installed.packages())) install.packages("stats")
 
 # Packages laden
 library("readxl")
 library("ggplot2")
 library("gganimate")
 library("psych")
-library("stats")
 
 # Set WORKING Directory
 setwd(choose.dir())
