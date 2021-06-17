@@ -9,8 +9,14 @@ H1: Rich countries progresses faster in the COVID-19 vaccinations than poor coun
 H2: There is an evident difference of the contintens between the approval of the vaccinations.
 H3: COVID-19 Vaccinations have a negative correlation for the death rate of the analyzed countries.
 
-Please feel free to investigate our Case Study and our results
+Please feel free to investigate our Case Study and our results.
 
 Project Group: Jannis, Milan, Nicoleta, Zafer
 
 # Files Information
+
+2021_06_01_owid-covid-data.xlsx                   Sample of master data from OWID COVID. Includes 80 countries.
+2021_06_01_owid-covid-data_NZ.xlsx                Data refurbished for analysis with RStudio and Tableau.
+Hypothese 1 - Impffortschritt.R                   R code for hypothesis H1.
+Hypothese 1 - Impffortschritt.txt                 R code for hypothesis H1 in .txt form.
+MSc-WI_BINA-Weltweiter Imffortschritt-FS21.docx   Case Study full documentation.
