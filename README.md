@@ -12,3 +12,5 @@ H3: COVID-19 Vaccinations have a negative correlation for the death rate of the 
 Please feel free to investigate our Case Study and our results
 
 Project Group: Jannis, Milan, Nicoleta, Zafer
+
+# Files Information
