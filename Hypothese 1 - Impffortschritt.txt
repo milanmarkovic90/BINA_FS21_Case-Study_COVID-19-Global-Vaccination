@@ -82,4 +82,4 @@ modelx <- lm(formula = Stichprobe$human_development_index
              ~ log(Stichprobe$people_fully_vaccinated_per_hundred))
 summary(modelx)
 # --- R2 = 0.7252
-# --- p-value < 2.2e-16
+# --- p-value: < 2.2e-16
