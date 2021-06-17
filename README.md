@@ -19,4 +19,4 @@ Project Group: Jannis, Milan, Nicoleta, Zafer
 - [`2021_06_01_owid-covid-data_NZ.xlsx`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/2021_06_01_owid-covid-data_NZ.xlsx): Data refurbished for analysis with RStudio and Tableau.
 - [`Hypothese 1 - Impffortschritt.R`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/Hypothese%201%20-%20Impffortschritt.R): R code for hypothesis H1.
 - [`Hypothese 1 - Impffortschritt.txt`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/Hypothese%201%20-%20Impffortschritt.txt): R code for hypothesis H1 in .txt form.
-- [`MSc-WI_BINA-Weltweiter Imffortschritt-FS21.docx`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/MSc-WI_BINA-Weltweiter%20Impffortschritt-FS21.docx): Case Study full documentation.
+- [`MSc-WI_BINA-Weltweiter Imffortschritt-FS21.docx`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/MSc-WI_BINA-Weltweiter%20Impffortschritt-FS21.docx): Case study full documentation.
