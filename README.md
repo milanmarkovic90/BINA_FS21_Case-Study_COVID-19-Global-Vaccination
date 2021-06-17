@@ -15,8 +15,10 @@ Project Group: Jannis, Milan, Nicoleta, Zafer
 
 ## Files Information
 
-- 2021_06_01_owid-covid-data.xlsx: Sample of master data from OWID COVID. Includes 80 countries.
+- [`2021_06_01_owid-covid-data.xlsx`] (https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/2021_06_01_owid-covid-data.xlsx): Sample of master data from OWID COVID. Includes 80 countries.
 - 2021_06_01_owid-covid-data_NZ.xlsx: Data refurbished for analysis with RStudio and Tableau.
 - Hypothese 1 - Impffortschritt.R: R code for hypothesis H1.
 - Hypothese 1 - Impffortschritt.txt: R code for hypothesis H1 in .txt form.
 - MSc-WI_BINA-Weltweiter Imffortschritt-FS21.docx: Case Study full documentation.
+
+- [`latest`](https://github.com/owid/covid-19-data/tree/master/public/data/latest): shortened version of our complete dataset with only the latest value for each location and metric (within a limit of 2 weeks in the past). This file is available in CSV, XLSX, and JSON formats.
