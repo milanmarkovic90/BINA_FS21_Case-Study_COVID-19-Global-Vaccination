@@ -19,7 +19,7 @@ Project Group: Jannis Kokkinis, Milan Markovic, Zafer Ünal, Nicoleta Zanotta
 - [`pictures`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/tree/main/pictures): Pictures with the main results and analysis of the case study.
 - [`scripts`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/tree/main/scripts): Contains scripts such as R codes.
 - [`MSc-WI_BINA-Weltweiter Imffortschritt-FS21.pdf`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/MSc-WI_BINA-Weltweiter%20Impffortschritt-FS21.pdf): Case study full documentation.
-- - [`Pitch_Deck_180621.pptx`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/Pitch_Deck_180621.pptx): Pitch deck with key results.
+- [`Pitch_Deck_180621.pptx`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/Pitch_Deck_180621.pptx): Pitch deck with key results.
 
 ## Data Source
 The data source for this case study is mainly provided by the organization "Our World in Data".
