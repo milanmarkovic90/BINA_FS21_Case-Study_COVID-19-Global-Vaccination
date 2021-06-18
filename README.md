@@ -1,5 +1,4 @@
-# BINA_FS21_Case-Study_COVID-19-Global-Vaccination
-A comparison of the global vaccionation progress
+# Case-Study "COVID-19: Global Comparison of Vaccination Progress"
 
 This is a case study for the module Business Intelligence and Analytics (BINA) in Master of Science in Business Information Technology.
 
