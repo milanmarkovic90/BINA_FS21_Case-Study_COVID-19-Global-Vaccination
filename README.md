@@ -10,6 +10,8 @@ The following case study analyzes the global comparison of the COVID-19 vaccinat
 
 Please feel free to check our case study and our results.
 
+Key results: https://sway.office.com/eCmUGEL9wUVabDrt
+
 Project Group: Jannis Kokkinis, Milan Markovic, Zafer Ünal, Nicoleta Zanotta
 
 
