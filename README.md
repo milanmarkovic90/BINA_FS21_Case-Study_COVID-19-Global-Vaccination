@@ -7,7 +7,7 @@ The following case study analyzes the global comparison of the COVID-19 vaccinat
 
 - H1: Rich countries progresses faster in the COVID-19 vaccinations than poor countries (measured by HDI).
 - H2: There is an evident difference of the continens between the approval of the vaccinations.
-- H3: COVID-19 Vaccinations have a negative correlation for the death rate of the analyzed countries.
+- H3: COVID-19 vaccinations have a negative correlation for the death rate of the analyzed countries.
 
 Please feel free to investigate our Case Study and our results.
 
@@ -16,9 +16,6 @@ Project Group:
 - Milan Markovic
 - Zafer Ünal
 - Nicoleta Zanotta
-
-Lecturer:
-- Dr. Daniel Benninger
 
 ## Files Information
 
