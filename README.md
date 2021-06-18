@@ -11,11 +11,8 @@ The following case study analyzes the global comparison of the COVID-19 vaccinat
 
 Please feel free to investigate our Case Study and our results.
 
-Project Group:
-- Jannis Kokkinis
-- Milan Markovic
-- Zafer Ünal
-- Nicoleta Zanotta
+Project Group: Jannis Kokkinis, Milan Markovic, Zafer Ünal, Nicoleta Zanotta
+
 
 ## Files Information
 
