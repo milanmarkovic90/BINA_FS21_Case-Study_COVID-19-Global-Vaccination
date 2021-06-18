@@ -1,3 +1,3 @@
 ## Information
 
-Pictures made by RStudio and Tableau for showing the results of the case study.
+Pictures made by RStudio and Tableau showing the results of the case study.
