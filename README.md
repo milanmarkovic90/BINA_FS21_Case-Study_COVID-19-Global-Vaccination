@@ -9,7 +9,7 @@ The following case study analyzes the global comparison of the COVID-19 vaccinat
 - H2: There is an evident difference of the continens between the approval of the vaccinations.
 - H3: COVID-19 vaccinations have a negative correlation for the death rate of the analyzed countries.
 
-Please feel free to investigate our Case Study and our results.
+Please feel free to investigate our case study and our results.
 
 Project Group: Jannis Kokkinis, Milan Markovic, Zafer Ünal, Nicoleta Zanotta
 
