@@ -21,3 +21,8 @@ Project Group: Jannis Kokkinis, Milan Markovic, Zafer Ünal, Nicoleta Zanotta
 - [`Hypothese 1 - Impffortschritt.R`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/Hypothese%201%20-%20Impffortschritt.R): R code for hypothesis H1.
 - [`Hypothese 1 - Impffortschritt.txt`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/Hypothese%201%20-%20Impffortschritt.txt): R code for hypothesis H1 in .txt form.
 - [`MSc-WI_BINA-Weltweiter Imffortschritt-FS21.docx`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/MSc-WI_BINA-Weltweiter%20Impffortschritt-FS21.docx): Case study full documentation.
+
+## Data Source
+The data source for this case study is mainly provided by the organization "Our World in Data".
+- Homepage: https://ourworldindata.org/coronavirus
+- Github Repository: https://github.com/owid/covid-19-data
