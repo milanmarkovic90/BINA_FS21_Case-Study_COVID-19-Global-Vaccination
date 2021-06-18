@@ -1,6 +1,6 @@
 ## Files Information
 
-- [`data`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/tree/main/data): Contains data sets needed for further work on the case study.
-- [`pictures`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/tree/main/pictures): Pictures with the main results and analysis of the case study.
-- [`scripts`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/tree/main/scripts): Contains scripts such as R codes.
-- [`MSc-WI_BINA-Weltweiter Imffortschritt-FS21.docx`](https://github.com/milanmarkovic90/BINA_FS21_Case-Study_COVID-19-Global-Vaccination/blob/main/MSc-WI_BINA-Weltweiter%20Impffortschritt-FS21.docx): Case study full documentation.
+- [`2021-06-01-Locations.xlsx`]: From [`OWID COVID`](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations). Contains different types of vaccinations used by countries. Data from June 1st 2021.
+- [`2021_06_01_owid-covid-data.xlsx`]: From [`OWID COVID`](https://github.com/owid/covid-19-data/tree/master/public/data). Master File, contains vaccination progress by country, death rates, hdi-level per country, etc. Data from June 1st 2021.
+- [`2021_06_01_owid-covid-data_NZ.xlsx`]: Edited sample with 80 countries. Based on Master File.
+- [`hdr2020_technical_notes.pdf`]: From [`Human Development Report`](http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf). Describes categories of hdi levels.
